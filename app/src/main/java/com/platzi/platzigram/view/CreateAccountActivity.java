@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toolbar;
 
+
 import com.platzi.platzigram.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
